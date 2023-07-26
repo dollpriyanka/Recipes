@@ -7,10 +7,13 @@
 
 ### Screenshots are::
 
-![image](https://github.com/dollpriyanka/Recipes/assets/91906722/97effc74-1ac1-4390-9eea-930e08eb74d4)
+![image](https://github.com/dollpriyanka/Recipes/assets/91906722/78b47748-5ef3-4839-9cf2-d5d8a25669d5)
 
-![image](https://github.com/dollpriyanka/Recipes/assets/91906722/b2237eff-db92-4a33-8190-865015b3931c)
+![image](https://github.com/dollpriyanka/Recipes/assets/91906722/4c29f4e1-0ef1-417a-990c-af612531e21e)
 
+### Chicken::
+
+![image](https://github.com/dollpriyanka/Recipes/assets/91906722/6f0db5e8-0cea-4ba6-b0d6-098ddb510fd7)
 
 
 
