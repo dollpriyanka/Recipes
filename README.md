@@ -1,5 +1,9 @@
 
-# Welcome to the Recipe App
+# Welcome to the Recipe App 🍔😋
+
+```sh
+    "This is my  first recipe app"
+```
 
 ```sh
       “A recipe has no soul. You, as the cook, must bring soul to the recipe.”
