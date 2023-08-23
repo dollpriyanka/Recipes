@@ -4,7 +4,7 @@
 ## Welcome to the Recipe App 🍔😋
 
 ```sh
-"This is my  first recipe app."
+"This is my  first recipe app using ReactJS"
 ```
 
 ```sh
